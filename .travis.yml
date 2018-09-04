@@ -5,4 +5,4 @@ python:
 
 
 script: 
-  - python3 ./Basic-Part-1/source-code/*
+  - python3 ./Basic-Part-1/source-code/qn_2.py
