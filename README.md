@@ -5,7 +5,9 @@
 </p>
 
 
+<p align="center">
     Problem-driven and individualized 😎
     Fun 😋
     Safe from failure 😌
     Group engagement 😄
+</p>
