@@ -11,3 +11,4 @@
     Safe from failure -
     Group engagement 
 </p>
+## Project stats [![Build Status](https://travis-ci.org/ajilraju/python-practical-zone.svg?branch=master)](https://travis-ci.org/ajilraju/python-practical-zone)
