@@ -2,4 +2,5 @@
 
 import platform
 
-print("Current python version : ", platform.python_version())
+current_version = platform.python_version()
+print("Current python version : ", current_version)
