@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 filename = input("Put some file name with extension: ")
 
