@@ -3,6 +3,5 @@ language: python
 python:
   - "3.5"
 
-
 script: 
-  - python3 ./Basic-Part-1/source-code/qn_2.py
+  - python3 ./Basic-Part-*/source-code/*.py
