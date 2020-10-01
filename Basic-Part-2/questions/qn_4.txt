@@ -1,0 +1,1 @@
+Variables declared outside a function or in global space are called global variables. These variables can be accessed by any function in the program.
