@@ -1,0 +1,17 @@
+Ans: Dictionary and list comprehensions are just another concise way to define dictionaries and lists.
+
+Example of list comprehension is-
+x=[i for i in range(5)]
+
+The above code creates a list as below-
+	
+4
+[0,1,2,3,4]
+
+Example of dictionary comprehension is-
+	
+x=[i : i+2 for i in range(5)]
+
+The above code creates a list as below-
+	
+[0: 2, 1: 3, 2: 4, 3: 5, 4: 6]
