@@ -1,2 +1,11 @@
 Tuple and String Type
 Here is the code snippet. You have to find the type of the given three objects.
+
+A = ("Python" , "Java")
+print(type(A))
+ 
+B = ("Python", )
+print(type(B))
+ 
+C = ("Python")
+print(type(C))
