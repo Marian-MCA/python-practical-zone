@@ -1,0 +1,16 @@
+Output:
+
+<class 'tuple'>
+<class 'tuple'>
+<class 'str'>
+Explanation:
+
+These objects are classified into different data types.
+
+tuple- It stores the element just like an array. (It is slightly different from list.)
+str- it is a string that is a set of characters.
+Let’s take a scenario one by one.
+
+Object ‘A’ is a tuple. It’s very clear from its syntax.
+Object ‘B’ is again tuple. Despite having only one string, it has comma ‘,’ after the string. So it can not be a string.
+Object ‘C’ is a string. It has only one string though it has enclosed inside the brackets. So, Python considers it as a string.
