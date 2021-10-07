@@ -3,3 +3,6 @@
 Sample value of n is 5
 
 Expected Result : 615
+
+n=int (input("Enter a number")
+print(n+(n*n)+(n*n*n)).
