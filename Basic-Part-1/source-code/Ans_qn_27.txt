@@ -1,2 +1,24 @@
 [1, 2, 3, 4, 5, 6]
 [1, 2, 3, 4, 5, 6]
+
+Explanation:
+
+You are appending a new element to the second list. Then, why do you see a new element even in the first list?
+
+This is really confusing.
+
+Here is actual fact.
+
+The code line “second = first ” creates the shallow copy of the list. It means there will be a single list in memory. The first and second variables are pointed to the same list.It does not maintain two separate lists, but only one. If you modify using one list variable, it will make the changes in the list for both variables.
+If you want to maintain two separate lists for two list objects, you need to create a deep copy of the list. Refer a shallow and deep copy You can also print the identity of the objects (first and second) using id() inbuilt function.
+
+first = [1, 2, 3, 4, 5]
+second = first
+print(id(second))
+print(id(first))
+
+
+Output:
+
+140683246201032
+140683246201032
