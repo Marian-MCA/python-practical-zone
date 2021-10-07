@@ -1,0 +1,18 @@
+Differentiating List extend() Method
+What is the output of print statements 1 and 2 in the following code snippet?.
+
+listA = [1, 2, 3]
+def funcA(listA):
+    listA = listA * 2
+    return None
+
+funcA(listA)
+print(listA) # print Statement 1
+ 
+listB = [1, 2, 3]
+def funcB(listB):
+    listB=listB.extend([1, 2, 3])
+    return None
+
+funcB(listB)
+print(listB) # print Statement 2
