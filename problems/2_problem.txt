@@ -1,0 +1,5 @@
+Write a Python program that iterate over elements repeating each as many times as its count.
+
+Note: Elements are returned in arbitrary order.
+
+Sample Output: ['p', 'p', 'p', 'p', 'q', 'q'] 
