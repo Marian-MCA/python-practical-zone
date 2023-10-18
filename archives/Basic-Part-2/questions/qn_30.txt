@@ -1,0 +1,1 @@
+Write a Python program to count the numbers divisible by 7 or 11 in a given array of integers using Lambda.
