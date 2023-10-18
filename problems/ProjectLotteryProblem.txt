@@ -1,0 +1,22 @@
+Lottery system, where the user can input 5 numbers of choice and the system will generate another set of 5 numbers. The program will then check if the entered numbers have any match with the numbers generated randomly by the system and giveout the number of matches in the set of input numbers by the user.
+
+If there is no match, te system will display matches as 0(zero).
+
+Example 1: 
+
+User input numbers : 1,  2,  3,  5,  4
+
+Lottery numbers generated randomly by system :  30,  19,  21,  3,  32
+
+Output : You have 0 matches
+
+Example 2:
+
+User input number : 45,  34,  65,  34,  22
+
+Lottery numbers generated randomly by system :  5,  34,  40,  16,  37
+
+You have 1 matches
+
+
+
